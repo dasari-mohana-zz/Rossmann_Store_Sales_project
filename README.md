@@ -40,11 +40,15 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 
     a.	 Dropping of unwanted columns and values (closed stores)
     
-    b.	 Filling Missing Values
+    b.	 Filling Missing Values with Imputation
     
-    c.   Removing Outliers
+    c.   Outliers Detection and removal
 
-4.	Model Building 
+4.  Further Exploratory Data Analysis to find out a few exceptional cases.
+
+5.	Label Encoding and One hot encoding
+
+6.	Model Building 
 
     a.	 Performing train test split 
     
@@ -56,7 +60,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
     
     e.	 Random Forest Regression Model
 
-5.	Model Validation 
+7.	Model Validation 
 
     a.	 r2 score 
     
@@ -64,6 +68,8 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
     
     c.	 Root mean squared error
 
-6.	Creating the final model and making predictions
+8.	Creating the final right model and making predictions
 
-7.	Conclusion
+9.	Feature Importance Analysis
+
+10.	Conclusion
