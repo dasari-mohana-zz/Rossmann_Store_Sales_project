@@ -27,23 +27,34 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 # My Approch:
 
 1.	Importing the required libraries and reading the dataset. 
+
   a.	 Merging of the two datasets 
   b.	 Understanding the dataset
+  
 2.	Exploratory Data Analysis (EDA) – 
-  a.	 Data Visualization
+
+  a.	 Data Visualizatiom
+  
 3.	Feature Engineering 
+
   a.	 Dropping of unwanted columns and values (closed stores)
   b.	 Filling Missing Values
   c.   Removing Outliers
+  
 4.	Model Building 
+
   a.	 Performing train test split 
   b.	 Linear Regression Model 
   c.	 SGD Regression Model 
   d.	 Decision Tree Regression Model 
   e.	 Random Forest Regression Model
+  
 5.	Model Validation 
+
   a.	 r2 score 
   b.	 Mean absolute error 
   c.	 Mean absolute error
+  
 6.	Creating the final model and making predictions
+
 7.	Conclusion
