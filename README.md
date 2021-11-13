@@ -46,7 +46,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 
 4.  Further Exploratory Data Analysis to find out a few exceptional cases.
 
-5.	Label Encoding and One hot encoding
+5.	Label Encoding (Converting categorical variables to numerical values)
 
 6.	Model Building 
 
